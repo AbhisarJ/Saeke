@@ -109,6 +109,6 @@ img{
     
 }
 
-a{
+a : active{
     color : black;
 }
